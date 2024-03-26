@@ -1,0 +1,182 @@
+[
+        {
+            "id": 1,
+            "marca": "Fiat",
+            "nombre": "Cronos",
+            "Stock": 4,
+            "precio": 23500,
+            "año": 2023,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Ffiat_cronos_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 2,
+            "marca": "Fiat",
+            "nombre": "Pulse",
+            "Stock": 3,
+            "precio": 18500,
+            "año": 2022,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Ffiat_pulse_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 3,
+            "marca": "Fiat",
+            "nombre": "Strada",
+            "Stock": 3,
+            "precio": 20040,
+            "año": 2021,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Ffiat_strada_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 4,
+            "marca": "Nissan",
+            "nombre": "Frontier",
+            "Stock": 4,
+            "precio": 10500,
+            "año": 2020,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fnissan_nueva_frontier_plano_detalle.jpg&w=1024&q=90"
+        },
+        {
+            "id": 5,
+            "marca": "Nissan",
+            "nombre": "Sentra",
+            "Stock": 5,
+            "precio": 18500,
+            "año": 2010,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fnissan_nuevo_sentra_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 6,
+            "marca": "Toyota",
+            "nombre": "Corolla",
+            "Stock": 3,
+            "precio": 16600,
+            "año": 2020,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Ftoyota_corolla_2022_perfil_trasero.jpg&w=1024&q=90"
+        },
+        {
+            "id": 7,
+            "marca": "Toyota",
+            "nombre": "hilux",
+            "Stock": 5,
+            "precio": 17600,
+            "año": 2015,
+            "imagenUrl": "https://cdn.motor1.com/images/mgl/X4qJp/s1/lanzamiento-toyota-hilux-2016.webp"
+        },
+        {
+            "id": 8,
+            "marca": "Toyota",
+            "nombre": "Yaris-hatchback",
+            "Stock": 6,
+            "precio": 16650,
+            "año": 2021,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Ftoyota_yaris_hatchback_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 9,
+            "marca": "Ford",
+            "nombre": "Fiesta",
+            "Stock": 3,
+            "precio": 15560,
+            "año": 2020,
+            "imagenUrl": "https://cdn.motor1.com/images/mgl/lEEP6E/s1/ford-fiesta-2021.jpg"
+        },
+        {
+            "id": 10,
+            "marca": "Ford",
+            "nombre": "Maverick",
+            "Stock": 1,
+            "precio": 20560,
+            "año": 2021,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fford_maverick_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 11,
+            "marca": "Ford",
+            "nombre": "Focus",
+            "Stock": 2,
+            "precio": 10560,
+            "año": 2010,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fford_focus_5p_plano_detalle.jpg&w=1024&q=90"
+        },
+        {
+            "id": 12,
+            "marca": "Chevrolet",
+            "nombre": "Equinox",
+            "Stock": 3,
+            "precio": 12000,
+            "año": 2022,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fchevrolet_equinox_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 13,
+            "marca": "Chevrolet",
+            "nombre": "Cruze",
+            "Stock": 2,
+            "precio": 16200,
+            "año": 2021,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Far%2Fmodels%2Fchevrolet%2Fcruze%2Fdesktop%2Fthumbnail%2Fchevrolet-cruze_thumbnail.jpg&w=1024&q=75"
+        },
+        {
+            "id": 14,
+            "marca": "Peugeot",
+            "nombre": "3008",
+            "Stock": 2,
+            "precio": 55300,
+            "año": 2022,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fpeugeot_3008_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 15,
+            "marca": "Peugeot",
+            "nombre": "Partner-Furgon",
+            "Stock": 4,
+            "precio": 25300,
+            "año": 2023,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Far%2Fmodels%2Fpeugeot%2Fpartner-furg%25C3%25B3n%2Fdesktop%2Fthumbnail%2Fpeugeot-partner-furg%25C3%25B3n_thumbnail.jpg&w=1024&q=75"
+        },
+        {
+            "id": 16,
+            "marca": "Peugeot",
+            "nombre": "2008",
+            "Stock": 3,
+            "precio": 30300,
+            "año": 2021,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fpeugeot_2008_2022_perfil_frente.jpg&w=1024&q=90"
+        },
+        {
+            "id": 17,
+            "marca": "Renault",
+            "nombre": "Sandero",
+            "Stock": 1,
+            "precio": 35300,
+            "año": 2010,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Frenault_nuevo_sandero_plano_detalle.jpg&w=1024&q=90"
+        },
+        {
+            "id": 18,
+            "marca": "Renault",
+            "nombre": "Logan",
+            "Stock": 1,
+            "precio": 40300,
+            "año": 2010,
+            "imagenUrl": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_938521ecf1d6408f92acd460132153aa.jpg"
+        },
+        {
+            "id": 19,
+            "marca": "Volkswagen",
+            "nombre": "Amarok",
+            "Stock": 2,
+            "precio": 10300,
+            "año": 2019,
+            "imagenUrl": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_eb920fd356044f8b854396b536b9b78b.jpg"
+        },
+        {
+            "id": 20,
+            "marca": "Volkswagen",
+            "nombre": "Nivus",
+            "Stock": 3,
+            "precio": 15300,
+            "año": 2018,
+            "imagenUrl": "https://www.karvi.com.ar/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Far%2Fdesktop%2Fvolkswagen_nivus_perfil_frente.jpg&w=1024&q=90"
+        }
+    ]
